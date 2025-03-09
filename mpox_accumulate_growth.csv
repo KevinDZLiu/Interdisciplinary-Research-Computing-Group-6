@@ -1,0 +1,1815 @@
+week_end_date,country,total_confirmed_cases,new_confirmed_cases
+2022-01-09,Central African Republic,1,1
+2022-01-09,Benin,0,0
+2022-01-09,South Africa,0,0
+2022-01-09,Congo,0,0
+2022-01-09,Liberia,0,0
+2022-01-09,Cameroon,0,0
+2022-01-09,Nigeria,1,1
+2022-01-09,Democratic Republic of the Congo,0,0
+2022-01-09,Mozambique,0,0
+2022-01-16,Congo,0,0
+2022-01-16,South Africa,0,0
+2022-01-16,Mozambique,0,0
+2022-01-16,Democratic Republic of the Congo,0,0
+2022-01-16,Central African Republic,4,3
+2022-01-16,Benin,0,0
+2022-01-16,Nigeria,2,1
+2022-01-16,Cameroon,0,0
+2022-01-16,Liberia,0,0
+2022-01-16,Ghana,0,0
+2022-01-23,Democratic Republic of the Congo,0,0
+2022-01-23,Mozambique,0,0
+2022-01-23,Liberia,0,0
+2022-01-23,Ghana,0,0
+2022-01-23,Congo,0,0
+2022-01-23,Nigeria,3,1
+2022-01-23,Central African Republic,4,0
+2022-01-23,Cameroon,0,0
+2022-01-23,Benin,0,0
+2022-01-23,South Africa,0,0
+2022-01-30,Mozambique,0,0
+2022-01-30,Cameroon,0,0
+2022-01-30,Nigeria,3,0
+2022-01-30,Liberia,0,0
+2022-01-30,Democratic Republic of the Congo,0,0
+2022-01-30,Benin,0,0
+2022-01-30,South Africa,0,0
+2022-01-30,Central African Republic,5,1
+2022-01-30,Congo,0,0
+2022-01-30,Ghana,0,0
+2022-02-06,Central African Republic,6,1
+2022-02-06,Nigeria,3,0
+2022-02-06,Congo,0,0
+2022-02-06,Cameroon,0,0
+2022-02-06,Liberia,0,0
+2022-02-06,Benin,0,0
+2022-02-06,Democratic Republic of the Congo,0,0
+2022-02-06,Mozambique,0,0
+2022-02-06,South Africa,0,0
+2022-02-06,Ghana,0,0
+2022-02-13,South Africa,0,0
+2022-02-13,Nigeria,3,0
+2022-02-13,Ghana,0,0
+2022-02-13,Liberia,0,0
+2022-02-13,Democratic Republic of the Congo,0,0
+2022-02-13,Central African Republic,8,2
+2022-02-13,Congo,0,0
+2022-02-13,Mozambique,0,0
+2022-02-13,Benin,0,0
+2022-02-13,Cameroon,0,0
+2022-02-20,Congo,0,0
+2022-02-20,Central African Republic,12,4
+2022-02-20,Mozambique,0,0
+2022-02-20,Ghana,0,0
+2022-02-20,Liberia,0,0
+2022-02-20,South Africa,0,0
+2022-02-20,Nigeria,4,1
+2022-02-20,Benin,0,0
+2022-02-20,Cameroon,0,0
+2022-02-20,Democratic Republic of the Congo,0,0
+2022-02-27,Benin,0,0
+2022-02-27,Cameroon,0,0
+2022-02-27,Mozambique,0,0
+2022-02-27,Liberia,0,0
+2022-02-27,Central African Republic,12,0
+2022-02-27,Congo,0,0
+2022-02-27,Ghana,1,1
+2022-02-27,South Africa,0,0
+2022-02-27,Democratic Republic of the Congo,0,0
+2022-02-27,Nigeria,4,0
+2022-03-06,Benin,0,0
+2022-03-06,Central African Republic,12,0
+2022-03-06,Congo,0,0
+2022-03-06,Ghana,2,1
+2022-03-06,South Africa,0,0
+2022-03-06,Nigeria,6,2
+2022-03-06,Democratic Republic of the Congo,0,0
+2022-03-06,Liberia,0,0
+2022-03-06,Cameroon,1,1
+2022-03-06,Mozambique,0,0
+2022-03-13,Congo,0,0
+2022-03-13,Cameroon,2,1
+2022-03-13,Benin,0,0
+2022-03-13,Democratic Republic of the Congo,0,0
+2022-03-13,Nigeria,9,3
+2022-03-13,South Africa,0,0
+2022-03-13,Ghana,2,0
+2022-03-13,Liberia,0,0
+2022-03-13,Mozambique,0,0
+2022-03-13,Central African Republic,12,0
+2022-03-20,Cameroon,3,1
+2022-03-20,Liberia,0,0
+2022-03-20,Ghana,2,0
+2022-03-20,Democratic Republic of the Congo,0,0
+2022-03-20,Benin,0,0
+2022-03-20,Mozambique,0,0
+2022-03-20,Nigeria,10,1
+2022-03-20,Central African Republic,16,4
+2022-03-20,South Africa,0,0
+2022-03-20,Congo,0,0
+2022-03-27,Nigeria,10,0
+2022-03-27,Benin,0,0
+2022-03-27,Congo,0,0
+2022-03-27,Cameroon,3,0
+2022-03-27,Mozambique,0,0
+2022-03-27,Ghana,2,0
+2022-03-27,Liberia,0,0
+2022-03-27,Central African Republic,18,2
+2022-03-27,Democratic Republic of the Congo,0,0
+2022-03-27,South Africa,0,0
+2022-04-03,Democratic Republic of the Congo,0,0
+2022-04-03,South Africa,0,0
+2022-04-03,Mozambique,0,0
+2022-04-03,Ghana,2,0
+2022-04-03,Liberia,0,0
+2022-04-03,Congo,0,0
+2022-04-03,Benin,0,0
+2022-04-03,Nigeria,11,1
+2022-04-03,Cameroon,3,0
+2022-04-03,Central African Republic,18,0
+2022-04-10,Nigeria,13,2
+2022-04-10,South Africa,0,0
+2022-04-10,Mozambique,0,0
+2022-04-10,Ghana,2,0
+2022-04-10,Cameroon,3,0
+2022-04-10,Liberia,0,0
+2022-04-10,Central African Republic,18,0
+2022-04-10,Democratic Republic of the Congo,0,0
+2022-04-10,Congo,0,0
+2022-04-10,Benin,0,0
+2022-04-17,Benin,0,0
+2022-04-17,Congo,0,0
+2022-04-17,Mozambique,0,0
+2022-04-17,Nigeria,14,1
+2022-04-17,Cameroon,3,0
+2022-04-17,Democratic Republic of the Congo,0,0
+2022-04-17,Central African Republic,19,1
+2022-04-17,Liberia,0,0
+2022-04-17,Ghana,2,0
+2022-04-17,South Africa,0,0
+2022-04-24,Ghana,2,0
+2022-04-24,Democratic Republic of the Congo,0,0
+2022-04-24,South Africa,0,0
+2022-04-24,Cameroon,3,0
+2022-04-24,Mozambique,0,0
+2022-04-24,Congo,2,2
+2022-04-24,Nigeria,14,0
+2022-04-24,Benin,0,0
+2022-04-24,Central African Republic,19,0
+2022-04-24,Liberia,0,0
+2022-05-01,Benin,0,0
+2022-05-01,Congo,2,0
+2022-05-01,Liberia,0,0
+2022-05-01,Nigeria,15,1
+2022-05-01,Ghana,2,0
+2022-05-01,Central African Republic,19,0
+2022-05-01,Democratic Republic of the Congo,0,0
+2022-05-01,South Africa,0,0
+2022-05-01,Cameroon,4,1
+2022-05-01,Mozambique,0,0
+2022-05-08,Central African Republic,19,0
+2022-05-08,Nigeria,15,0
+2022-05-08,Democratic Republic of the Congo,0,0
+2022-05-08,Ghana,2,0
+2022-05-08,Liberia,0,0
+2022-05-08,Congo,2,0
+2022-05-08,South Africa,0,0
+2022-05-08,Benin,0,0
+2022-05-08,Cameroon,4,0
+2022-05-08,Mozambique,0,0
+2022-05-15,Central African Republic,19,0
+2022-05-15,Nigeria,19,4
+2022-05-15,Liberia,0,0
+2022-05-15,South Africa,0,0
+2022-05-15,Cameroon,4,0
+2022-05-15,Democratic Republic of the Congo,0,0
+2022-05-15,Ghana,2,0
+2022-05-15,Congo,2,0
+2022-05-15,Mozambique,0,0
+2022-05-15,Benin,0,0
+2022-05-22,Ghana,2,0
+2022-05-22,Cameroon,4,0
+2022-05-22,Central African Republic,19,0
+2022-05-22,Nigeria,21,2
+2022-05-22,South Africa,0,0
+2022-05-22,Benin,0,0
+2022-05-22,Congo,2,0
+2022-05-22,Liberia,0,0
+2022-05-22,Democratic Republic of the Congo,10,10
+2022-05-22,Mozambique,0,0
+2022-05-29,Benin,0,0
+2022-05-29,Mozambique,0,0
+2022-05-29,Liberia,0,0
+2022-05-29,Central African Republic,19,0
+2022-05-29,Democratic Republic of the Congo,10,0
+2022-05-29,Congo,2,0
+2022-05-29,Nigeria,21,0
+2022-05-29,Cameroon,4,0
+2022-05-29,Ghana,2,0
+2022-05-29,South Africa,0,0
+2022-06-05,Congo,2,0
+2022-06-05,Liberia,0,0
+2022-06-05,Nigeria,32,11
+2022-06-05,Cameroon,5,1
+2022-06-05,Ghana,8,6
+2022-06-05,South Africa,0,0
+2022-06-05,Mozambique,0,0
+2022-06-05,Morocco,1,1
+2022-06-05,Central African Republic,19,0
+2022-06-05,Benin,0,0
+2022-06-05,Democratic Republic of the Congo,10,0
+2022-06-12,Ghana,19,11
+2022-06-12,Mozambique,0,0
+2022-06-12,Central African Republic,19,0
+2022-06-12,Congo,2,0
+2022-06-12,Benin,0,0
+2022-06-12,Cameroon,5,0
+2022-06-12,Liberia,0,0
+2022-06-12,Democratic Republic of the Congo,10,0
+2022-06-12,South Africa,0,0
+2022-06-12,Morocco,1,0
+2022-06-12,Nigeria,36,4
+2022-06-19,Congo,2,0
+2022-06-19,Mozambique,0,0
+2022-06-19,Nigeria,41,5
+2022-06-19,Liberia,0,0
+2022-06-19,Ghana,22,3
+2022-06-19,Cameroon,6,1
+2022-06-19,Benin,0,0
+2022-06-19,Democratic Republic of the Congo,100,90
+2022-06-19,South Africa,0,0
+2022-06-19,Morocco,1,0
+2022-06-19,Central African Republic,19,0
+2022-06-26,Nigeria,63,22
+2022-06-26,Cameroon,6,0
+2022-06-26,Congo,2,0
+2022-06-26,Democratic Republic of the Congo,100,0
+2022-06-26,Central African Republic,19,0
+2022-06-26,Liberia,0,0
+2022-06-26,Mozambique,0,0
+2022-06-26,Ghana,23,1
+2022-06-26,Benin,3,3
+2022-06-26,South Africa,0,0
+2022-07-03,Central African Republic,19,0
+2022-07-03,Nigeria,84,21
+2022-07-03,Ghana,29,6
+2022-07-03,Liberia,0,0
+2022-07-03,Cameroon,8,2
+2022-07-03,South Africa,1,1
+2022-07-03,Democratic Republic of the Congo,100,0
+2022-07-03,Congo,2,0
+2022-07-03,Benin,3,0
+2022-07-03,Mozambique,0,0
+2022-07-10,Central African Republic,19,0
+2022-07-10,Democratic Republic of the Congo,100,0
+2022-07-10,Benin,3,0
+2022-07-10,South Africa,1,0
+2022-07-10,Ghana,34,5
+2022-07-10,Liberia,0,0
+2022-07-10,Congo,2,0
+2022-07-10,Nigeria,101,17
+2022-07-10,Mozambique,0,0
+2022-07-10,Cameroon,8,0
+2022-07-17,Liberia,0,0
+2022-07-17,Benin,3,0
+2022-07-17,Ghana,36,2
+2022-07-17,Central African Republic,21,2
+2022-07-17,Nigeria,118,17
+2022-07-17,Mozambique,0,0
+2022-07-17,Congo,2,0
+2022-07-17,Democratic Republic of the Congo,100,0
+2022-07-17,Cameroon,8,0
+2022-07-17,South Africa,2,1
+2022-07-24,Cameroon,8,0
+2022-07-24,Liberia,0,0
+2022-07-24,Democratic Republic of the Congo,100,0
+2022-07-24,Central African Republic,21,0
+2022-07-24,Mozambique,0,0
+2022-07-24,Congo,2,0
+2022-07-24,Ghana,38,2
+2022-07-24,South Africa,2,0
+2022-07-24,Nigeria,133,15
+2022-07-24,Benin,3,0
+2022-07-31,South Africa,3,1
+2022-07-31,Ghana,52,14
+2022-07-31,Cameroon,8,0
+2022-07-31,Democratic Republic of the Congo,100,0
+2022-07-31,Nigeria,157,24
+2022-07-31,Mozambique,0,0
+2022-07-31,Liberia,1,1
+2022-07-31,Central African Republic,22,1
+2022-07-31,Congo,2,0
+2022-07-31,Benin,3,0
+2022-08-07,Benin,3,0
+2022-08-07,Central African Republic,22,0
+2022-08-07,Congo,2,0
+2022-08-07,Mozambique,0,0
+2022-08-07,South Africa,3,0
+2022-08-07,Democratic Republic of the Congo,100,0
+2022-08-07,Sudan,1,1
+2022-08-07,Liberia,2,1
+2022-08-07,Cameroon,8,0
+2022-08-07,Ghana,56,4
+2022-08-07,Nigeria,172,15
+2022-08-14,Congo,3,1
+2022-08-14,South Africa,3,0
+2022-08-14,Democratic Republic of the Congo,149,49
+2022-08-14,Ghana,68,12
+2022-08-14,Mozambique,0,0
+2022-08-14,Sudan,2,1
+2022-08-14,Benin,3,0
+2022-08-14,Central African Republic,23,1
+2022-08-14,Nigeria,220,48
+2022-08-14,Cameroon,8,0
+2022-08-14,Liberia,3,1
+2022-08-21,Liberia,3,0
+2022-08-21,Nigeria,241,21
+2022-08-21,Central African Republic,23,0
+2022-08-21,Congo,3,0
+2022-08-21,Benin,3,0
+2022-08-21,Mozambique,0,0
+2022-08-21,Ghana,79,11
+2022-08-21,South Africa,4,1
+2022-08-21,Cameroon,8,0
+2022-08-21,Democratic Republic of the Congo,149,0
+2022-08-28,Congo,3,0
+2022-08-28,South Africa,5,1
+2022-08-28,Nigeria,277,36
+2022-08-28,Central African Republic,23,0
+2022-08-28,Democratic Republic of the Congo,174,25
+2022-08-28,Cameroon,8,0
+2022-08-28,Ghana,86,7
+2022-08-28,Benin,3,0
+2022-08-28,Liberia,3,0
+2022-08-28,Mozambique,0,0
+2022-09-04,Morocco,3,2
+2022-09-04,Benin,3,0
+2022-09-04,Liberia,3,0
+2022-09-04,Nigeria,318,41
+2022-09-04,Mozambique,0,0
+2022-09-04,South Africa,5,0
+2022-09-04,Democratic Republic of the Congo,174,0
+2022-09-04,Ghana,89,3
+2022-09-04,Cameroon,8,0
+2022-09-04,Congo,3,0
+2022-09-04,Central African Republic,23,0
+2022-09-11,Nigeria,349,31
+2022-09-11,Sudan,4,2
+2022-09-11,Cameroon,9,1
+2022-09-11,Benin,3,0
+2022-09-11,Liberia,3,0
+2022-09-11,Congo,5,2
+2022-09-11,Democratic Republic of the Congo,174,0
+2022-09-11,Central African Republic,24,1
+2022-09-11,Mozambique,0,0
+2022-09-11,South Africa,5,0
+2022-09-11,Ghana,93,4
+2022-09-18,Congo,5,0
+2022-09-18,Democratic Republic of the Congo,190,16
+2022-09-18,Ghana,96,3
+2022-09-18,Central African Republic,24,0
+2022-09-18,Nigeria,400,51
+2022-09-18,Liberia,3,0
+2022-09-18,South Africa,5,0
+2022-09-18,Cameroon,9,0
+2022-09-18,Mozambique,0,0
+2022-09-18,Sudan,6,2
+2022-09-18,Benin,3,0
+2022-09-25,Central African Republic,25,1
+2022-09-25,Mozambique,0,0
+2022-09-25,Benin,3,0
+2022-09-25,Congo,5,0
+2022-09-25,Ghana,101,5
+2022-09-25,Democratic Republic of the Congo,200,10
+2022-09-25,Sudan,7,1
+2022-09-25,Cameroon,10,1
+2022-09-25,South Africa,5,0
+2022-09-25,Nigeria,456,56
+2022-09-25,Liberia,3,0
+2022-10-02,Egypt,1,1
+2022-10-02,Ghana,105,4
+2022-10-02,Liberia,3,0
+2022-10-02,Democratic Republic of the Congo,202,2
+2022-10-02,Congo,5,0
+2022-10-02,Benin,3,0
+2022-10-02,Sudan,17,10
+2022-10-02,Nigeria,481,25
+2022-10-02,Mozambique,0,0
+2022-10-02,Central African Republic,25,0
+2022-10-02,South Africa,5,0
+2022-10-02,Cameroon,10,0
+2022-10-09,Liberia,3,0
+2022-10-09,Cameroon,10,0
+2022-10-09,Democratic Republic of the Congo,228,26
+2022-10-09,Central African Republic,25,0
+2022-10-09,Benin,3,0
+2022-10-09,South Africa,5,0
+2022-10-09,Congo,5,0
+2022-10-09,Ghana,105,0
+2022-10-09,Nigeria,530,49
+2022-10-09,Mozambique,1,1
+2022-10-16,Democratic Republic of the Congo,235,7
+2022-10-16,Congo,5,0
+2022-10-16,Ghana,106,1
+2022-10-16,South Africa,5,0
+2022-10-16,Nigeria,552,22
+2022-10-16,Benin,3,0
+2022-10-16,Mozambique,1,0
+2022-10-16,Liberia,3,0
+2022-10-16,Cameroon,12,2
+2022-10-16,Central African Republic,28,3
+2022-10-23,Democratic Republic of the Congo,250,15
+2022-10-23,Ghana,106,0
+2022-10-23,Cameroon,12,0
+2022-10-23,Mozambique,1,0
+2022-10-23,Liberia,3,0
+2022-10-23,Benin,3,0
+2022-10-23,South Africa,5,0
+2022-10-23,Congo,5,0
+2022-10-23,Central African Republic,28,0
+2022-10-23,Nigeria,583,31
+2022-10-23,Sudan,18,1
+2022-10-30,Ghana,108,2
+2022-10-30,South Africa,5,0
+2022-10-30,Central African Republic,28,0
+2022-10-30,Congo,5,0
+2022-10-30,Cameroon,16,4
+2022-10-30,Liberia,3,0
+2022-10-30,Nigeria,604,21
+2022-10-30,Democratic Republic of the Congo,251,1
+2022-10-30,Benin,3,0
+2022-10-30,Mozambique,1,0
+2022-11-06,Nigeria,624,20
+2022-11-06,Cameroon,16,0
+2022-11-06,Benin,3,0
+2022-11-06,South Africa,5,0
+2022-11-06,Mozambique,1,0
+2022-11-06,Ghana,108,0
+2022-11-06,Liberia,3,0
+2022-11-06,Central African Republic,28,0
+2022-11-06,Democratic Republic of the Congo,252,1
+2022-11-06,Congo,5,0
+2022-11-13,Ghana,108,0
+2022-11-13,Cameroon,18,2
+2022-11-13,Benin,3,0
+2022-11-13,Congo,5,0
+2022-11-13,Mozambique,1,0
+2022-11-13,Central African Republic,28,0
+2022-11-13,South Africa,5,0
+2022-11-13,Nigeria,638,14
+2022-11-13,Liberia,3,0
+2022-11-13,Democratic Republic of the Congo,258,6
+2022-11-20,Central African Republic,28,0
+2022-11-20,Congo,5,0
+2022-11-20,Nigeria,659,21
+2022-11-20,Benin,3,0
+2022-11-20,Liberia,3,0
+2022-11-20,Democratic Republic of the Congo,262,4
+2022-11-20,Mozambique,1,0
+2022-11-20,Cameroon,18,0
+2022-11-20,South Africa,5,0
+2022-11-20,Ghana,108,0
+2022-11-27,Congo,5,0
+2022-11-27,Liberia,4,1
+2022-11-27,South Africa,5,0
+2022-11-27,Benin,3,0
+2022-11-27,Ghana,111,3
+2022-11-27,Central African Republic,28,0
+2022-11-27,Nigeria,680,21
+2022-11-27,Cameroon,18,0
+2022-11-27,Mozambique,1,0
+2022-11-27,Democratic Republic of the Congo,272,10
+2022-12-04,Liberia,4,0
+2022-12-04,South Africa,5,0
+2022-12-04,Cameroon,18,0
+2022-12-04,Ghana,111,0
+2022-12-04,Nigeria,720,40
+2022-12-04,Mozambique,1,0
+2022-12-04,Benin,3,0
+2022-12-04,Central African Republic,28,0
+2022-12-04,Democratic Republic of the Congo,275,3
+2022-12-04,Congo,5,0
+2022-12-11,Democratic Republic of the Congo,275,0
+2022-12-11,Liberia,6,2
+2022-12-11,South Africa,5,0
+2022-12-11,Cameroon,18,0
+2022-12-11,Nigeria,744,24
+2022-12-11,Ghana,117,6
+2022-12-11,Congo,5,0
+2022-12-11,Central African Republic,29,1
+2022-12-11,Mozambique,1,0
+2022-12-11,Benin,3,0
+2022-12-11,Egypt,2,1
+2022-12-18,South Africa,5,0
+2022-12-18,Nigeria,753,9
+2022-12-18,Liberia,6,0
+2022-12-18,Cameroon,18,0
+2022-12-18,Mozambique,1,0
+2022-12-18,Democratic Republic of the Congo,277,2
+2022-12-18,Benin,3,0
+2022-12-18,Central African Republic,30,1
+2022-12-18,Egypt,3,1
+2022-12-18,Congo,5,0
+2022-12-18,Ghana,117,0
+2022-12-25,Liberia,6,0
+2022-12-25,Congo,5,0
+2022-12-25,Benin,3,0
+2022-12-25,Democratic Republic of the Congo,279,2
+2022-12-25,South Africa,5,0
+2022-12-25,Cameroon,18,0
+2022-12-25,Nigeria,756,3
+2022-12-25,Central African Republic,30,0
+2022-12-25,Mozambique,1,0
+2022-12-25,Ghana,122,5
+2023-01-01,Cameroon,18,0
+2023-01-01,Ghana,122,0
+2023-01-01,Benin,3,0
+2023-01-01,Democratic Republic of the Congo,279,0
+2023-01-01,Liberia,6,0
+2023-01-01,Nigeria,763,7
+2023-01-01,Central African Republic,31,1
+2023-01-01,South Africa,5,0
+2023-01-01,Congo,5,0
+2023-01-01,Mozambique,1,0
+2023-01-08,Central African Republic,33,2
+2023-01-08,Cameroon,18,0
+2023-01-08,Congo,5,0
+2023-01-08,Democratic Republic of the Congo,316,37
+2023-01-08,Mozambique,1,0
+2023-01-08,Benin,3,0
+2023-01-08,South Africa,5,0
+2023-01-08,Liberia,6,0
+2023-01-08,Nigeria,766,3
+2023-01-08,Ghana,122,0
+2023-01-15,Cameroon,18,0
+2023-01-15,Benin,3,0
+2023-01-15,Ghana,122,0
+2023-01-15,Congo,5,0
+2023-01-15,Democratic Republic of the Congo,333,17
+2023-01-15,Nigeria,776,10
+2023-01-15,Mozambique,1,0
+2023-01-15,Central African Republic,35,2
+2023-01-15,Liberia,6,0
+2023-01-15,South Africa,5,0
+2023-01-22,Cameroon,18,0
+2023-01-22,Central African Republic,35,0
+2023-01-22,Nigeria,787,11
+2023-01-22,Liberia,6,0
+2023-01-22,Ghana,124,2
+2023-01-22,South Africa,5,0
+2023-01-22,Democratic Republic of the Congo,355,22
+2023-01-22,Mozambique,1,0
+2023-01-22,Congo,5,0
+2023-01-22,Benin,3,0
+2023-01-29,Democratic Republic of the Congo,377,22
+2023-01-29,Central African Republic,37,2
+2023-01-29,Mozambique,1,0
+2023-01-29,Congo,5,0
+2023-01-29,Benin,3,0
+2023-01-29,Nigeria,790,3
+2023-01-29,Liberia,7,1
+2023-01-29,Ghana,124,0
+2023-01-29,Cameroon,18,0
+2023-01-29,South Africa,5,0
+2023-02-05,Congo,5,0
+2023-02-05,Benin,3,0
+2023-02-05,Democratic Republic of the Congo,387,10
+2023-02-05,Central African Republic,37,0
+2023-02-05,Cameroon,18,0
+2023-02-05,Nigeria,797,7
+2023-02-05,Liberia,7,0
+2023-02-05,South Africa,5,0
+2023-02-05,Ghana,124,0
+2023-02-05,Mozambique,1,0
+2023-02-12,Mozambique,1,0
+2023-02-12,Democratic Republic of the Congo,387,0
+2023-02-12,Liberia,7,0
+2023-02-12,Congo,5,0
+2023-02-12,Central African Republic,39,2
+2023-02-12,South Africa,5,0
+2023-02-12,Benin,3,0
+2023-02-12,Nigeria,801,4
+2023-02-12,Cameroon,18,0
+2023-02-12,Ghana,124,0
+2023-02-19,Mozambique,1,0
+2023-02-19,Congo,5,0
+2023-02-19,Nigeria,806,5
+2023-02-19,Ghana,124,0
+2023-02-19,Cameroon,18,0
+2023-02-19,Central African Republic,41,2
+2023-02-19,Benin,3,0
+2023-02-19,Democratic Republic of the Congo,420,33
+2023-02-19,South Africa,5,0
+2023-02-19,Liberia,8,1
+2023-02-26,Liberia,8,0
+2023-02-26,Congo,5,0
+2023-02-26,Mozambique,1,0
+2023-02-26,South Africa,5,0
+2023-02-26,Cameroon,18,0
+2023-02-26,Ghana,124,0
+2023-02-26,Nigeria,811,5
+2023-02-26,Central African Republic,41,0
+2023-02-26,Benin,3,0
+2023-02-26,Democratic Republic of the Congo,420,0
+2023-03-05,South Africa,5,0
+2023-03-05,Ghana,124,0
+2023-03-05,Nigeria,813,2
+2023-03-05,Benin,3,0
+2023-03-05,Democratic Republic of the Congo,441,21
+2023-03-05,Congo,5,0
+2023-03-05,Central African Republic,41,0
+2023-03-05,Cameroon,18,0
+2023-03-05,Mozambique,1,0
+2023-03-05,Liberia,9,1
+2023-03-12,Congo,5,0
+2023-03-12,Central African Republic,43,2
+2023-03-12,Democratic Republic of the Congo,441,0
+2023-03-12,Nigeria,820,7
+2023-03-12,Ghana,124,0
+2023-03-12,Mozambique,1,0
+2023-03-12,Liberia,9,0
+2023-03-12,South Africa,5,0
+2023-03-12,Benin,3,0
+2023-03-12,Cameroon,18,0
+2023-03-19,Ghana,125,1
+2023-03-19,Congo,5,0
+2023-03-19,Democratic Republic of the Congo,448,7
+2023-03-19,South Africa,5,0
+2023-03-19,Central African Republic,43,0
+2023-03-19,Benin,3,0
+2023-03-19,Nigeria,822,2
+2023-03-19,Mozambique,1,0
+2023-03-19,Liberia,10,1
+2023-03-19,Cameroon,18,0
+2023-03-26,Ghana,125,0
+2023-03-26,Mozambique,1,0
+2023-03-26,South Africa,5,0
+2023-03-26,Democratic Republic of the Congo,451,3
+2023-03-26,Congo,5,0
+2023-03-26,Nigeria,829,7
+2023-03-26,Central African Republic,45,2
+2023-03-26,Liberia,10,0
+2023-03-26,Benin,3,0
+2023-03-26,Cameroon,18,0
+2023-04-02,South Africa,5,0
+2023-04-02,Ghana,125,0
+2023-04-02,Central African Republic,45,0
+2023-04-02,Nigeria,833,4
+2023-04-02,Congo,5,0
+2023-04-02,Cameroon,18,0
+2023-04-02,Liberia,10,0
+2023-04-02,Democratic Republic of the Congo,453,2
+2023-04-02,Benin,3,0
+2023-04-02,Mozambique,1,0
+2023-04-09,Nigeria,833,0
+2023-04-09,Congo,5,0
+2023-04-09,South Africa,5,0
+2023-04-09,Mozambique,1,0
+2023-04-09,Benin,3,0
+2023-04-09,Liberia,10,0
+2023-04-09,Central African Republic,45,0
+2023-04-09,Cameroon,18,0
+2023-04-09,Sudan,19,1
+2023-04-09,Ghana,126,1
+2023-04-09,Democratic Republic of the Congo,517,64
+2023-04-16,South Africa,5,0
+2023-04-16,Liberia,10,0
+2023-04-16,Mozambique,1,0
+2023-04-16,Ghana,126,0
+2023-04-16,Nigeria,834,1
+2023-04-16,Congo,5,0
+2023-04-16,Cameroon,18,0
+2023-04-16,Central African Republic,45,0
+2023-04-16,Benin,3,0
+2023-04-16,Democratic Republic of the Congo,556,39
+2023-04-23,Liberia,12,2
+2023-04-23,Mozambique,1,0
+2023-04-23,Congo,5,0
+2023-04-23,South Africa,5,0
+2023-04-23,Central African Republic,45,0
+2023-04-23,Democratic Republic of the Congo,556,0
+2023-04-23,Benin,3,0
+2023-04-23,Ghana,126,0
+2023-04-23,Cameroon,18,0
+2023-04-23,Nigeria,835,1
+2023-04-30,Mozambique,1,0
+2023-04-30,Central African Republic,45,0
+2023-04-30,Democratic Republic of the Congo,558,2
+2023-04-30,Ghana,126,0
+2023-04-30,Congo,5,0
+2023-04-30,Benin,3,0
+2023-04-30,Liberia,12,0
+2023-04-30,Cameroon,18,0
+2023-04-30,Nigeria,835,0
+2023-04-30,South Africa,5,0
+2023-05-07,Nigeria,837,2
+2023-05-07,Democratic Republic of the Congo,604,46
+2023-05-07,Mozambique,1,0
+2023-05-07,Congo,5,0
+2023-05-07,Cameroon,18,0
+2023-05-07,Central African Republic,45,0
+2023-05-07,Ghana,127,1
+2023-05-07,Liberia,12,0
+2023-05-07,South Africa,5,0
+2023-05-07,Benin,3,0
+2023-05-14,Mozambique,1,0
+2023-05-14,South Africa,5,0
+2023-05-14,Nigeria,841,4
+2023-05-14,Democratic Republic of the Congo,632,28
+2023-05-14,Central African Republic,45,0
+2023-05-14,Benin,3,0
+2023-05-14,Liberia,12,0
+2023-05-14,Congo,5,0
+2023-05-14,Cameroon,18,0
+2023-05-14,Ghana,128,1
+2023-05-21,Benin,3,0
+2023-05-21,Ghana,128,0
+2023-05-21,Central African Republic,45,0
+2023-05-21,Mozambique,1,0
+2023-05-21,Democratic Republic of the Congo,641,9
+2023-05-21,Nigeria,842,1
+2023-05-21,Congo,5,0
+2023-05-21,South Africa,5,0
+2023-05-21,Liberia,12,0
+2023-05-21,Cameroon,30,12
+2023-05-28,Liberia,12,0
+2023-05-28,Benin,3,0
+2023-05-28,Cameroon,31,1
+2023-05-28,Congo,5,0
+2023-05-28,Nigeria,842,0
+2023-05-28,South Africa,5,0
+2023-05-28,Central African Republic,45,0
+2023-05-28,Mozambique,1,0
+2023-05-28,Democratic Republic of the Congo,643,2
+2023-05-28,Ghana,128,0
+2023-06-04,Congo,5,0
+2023-06-04,Mozambique,1,0
+2023-06-04,Democratic Republic of the Congo,674,31
+2023-06-04,Cameroon,32,1
+2023-06-04,Nigeria,842,0
+2023-06-04,Ghana,128,0
+2023-06-04,South Africa,5,0
+2023-06-04,Liberia,12,0
+2023-06-04,Benin,3,0
+2023-06-04,Central African Republic,45,0
+2023-06-11,Democratic Republic of the Congo,675,1
+2023-06-11,Mozambique,1,0
+2023-06-11,Liberia,12,0
+2023-06-11,Nigeria,843,1
+2023-06-11,South Africa,5,0
+2023-06-11,Congo,5,0
+2023-06-11,Central African Republic,45,0
+2023-06-11,Cameroon,40,8
+2023-06-11,Ghana,128,0
+2023-06-11,Benin,3,0
+2023-06-18,Benin,3,0
+2023-06-18,Liberia,12,0
+2023-06-18,Democratic Republic of the Congo,700,25
+2023-06-18,Cameroon,40,0
+2023-06-18,Central African Republic,45,0
+2023-06-18,Congo,5,0
+2023-06-18,Mozambique,1,0
+2023-06-18,Ghana,128,0
+2023-06-18,South Africa,5,0
+2023-06-18,Nigeria,843,0
+2023-06-25,Democratic Republic of the Congo,734,34
+2023-06-25,Cameroon,41,1
+2023-06-25,Ghana,128,0
+2023-06-25,South Africa,5,0
+2023-06-25,Liberia,12,0
+2023-06-25,Mozambique,1,0
+2023-06-25,Nigeria,843,0
+2023-06-25,Benin,3,0
+2023-06-25,Congo,5,0
+2023-06-25,Central African Republic,45,0
+2023-07-02,Nigeria,843,0
+2023-07-02,Benin,3,0
+2023-07-02,Cameroon,41,0
+2023-07-02,Ghana,128,0
+2023-07-02,Liberia,12,0
+2023-07-02,Mozambique,1,0
+2023-07-02,South Africa,5,0
+2023-07-02,Congo,5,0
+2023-07-02,Central African Republic,45,0
+2023-07-02,Democratic Republic of the Congo,759,25
+2023-07-09,Ghana,128,0
+2023-07-09,Central African Republic,45,0
+2023-07-09,Nigeria,843,0
+2023-07-09,South Africa,5,0
+2023-07-09,Congo,5,0
+2023-07-09,Democratic Republic of the Congo,786,27
+2023-07-09,Benin,3,0
+2023-07-09,Mozambique,1,0
+2023-07-09,Cameroon,41,0
+2023-07-09,Liberia,12,0
+2023-07-16,Democratic Republic of the Congo,817,31
+2023-07-16,Congo,5,0
+2023-07-16,South Africa,5,0
+2023-07-16,Mozambique,1,0
+2023-07-16,Liberia,12,0
+2023-07-16,Central African Republic,45,0
+2023-07-16,Nigeria,844,1
+2023-07-16,Benin,3,0
+2023-07-16,Cameroon,42,1
+2023-07-16,Ghana,128,0
+2023-07-23,Central African Republic,45,0
+2023-07-23,Nigeria,844,0
+2023-07-23,Liberia,12,0
+2023-07-23,Cameroon,42,0
+2023-07-23,Ghana,128,0
+2023-07-23,Democratic Republic of the Congo,828,11
+2023-07-23,South Africa,5,0
+2023-07-23,Congo,5,0
+2023-07-23,Benin,3,0
+2023-07-23,Mozambique,1,0
+2023-07-30,Ghana,128,0
+2023-07-30,Nigeria,846,2
+2023-07-30,Mozambique,1,0
+2023-07-30,Liberia,12,0
+2023-07-30,Democratic Republic of the Congo,834,6
+2023-07-30,South Africa,5,0
+2023-07-30,Congo,5,0
+2023-07-30,Central African Republic,45,0
+2023-07-30,Benin,3,0
+2023-07-30,Cameroon,43,1
+2023-08-06,Congo,5,0
+2023-08-06,South Africa,5,0
+2023-08-06,Ghana,128,0
+2023-08-06,Democratic Republic of the Congo,849,15
+2023-08-06,Benin,3,0
+2023-08-06,Mozambique,1,0
+2023-08-06,Liberia,12,0
+2023-08-06,Central African Republic,45,0
+2023-08-06,Cameroon,43,0
+2023-08-06,Nigeria,846,0
+2023-08-13,Liberia,12,0
+2023-08-13,Cameroon,43,0
+2023-08-13,Mozambique,1,0
+2023-08-13,Benin,3,0
+2023-08-13,Ghana,128,0
+2023-08-13,Congo,6,1
+2023-08-13,Nigeria,846,0
+2023-08-13,Central African Republic,45,0
+2023-08-13,Democratic Republic of the Congo,860,11
+2023-08-13,South Africa,5,0
+2023-08-20,Cameroon,43,0
+2023-08-20,Mozambique,1,0
+2023-08-20,Benin,3,0
+2023-08-20,Liberia,12,0
+2023-08-20,Ghana,128,0
+2023-08-20,Central African Republic,45,0
+2023-08-20,South Africa,5,0
+2023-08-20,Nigeria,846,0
+2023-08-20,Democratic Republic of the Congo,868,8
+2023-08-20,Congo,8,2
+2023-08-27,Cameroon,43,0
+2023-08-27,South Africa,5,0
+2023-08-27,Mozambique,1,0
+2023-08-27,Liberia,12,0
+2023-08-27,Democratic Republic of the Congo,880,12
+2023-08-27,Congo,12,4
+2023-08-27,Nigeria,846,0
+2023-08-27,Central African Republic,45,0
+2023-08-27,Benin,3,0
+2023-08-27,Ghana,128,0
+2023-09-03,Ghana,128,0
+2023-09-03,Congo,13,1
+2023-09-03,Benin,3,0
+2023-09-03,Mozambique,1,0
+2023-09-03,Democratic Republic of the Congo,886,6
+2023-09-03,Cameroon,43,0
+2023-09-03,Nigeria,846,0
+2023-09-03,South Africa,5,0
+2023-09-03,Liberia,12,0
+2023-09-03,Central African Republic,45,0
+2023-09-10,Central African Republic,45,0
+2023-09-10,Liberia,12,0
+2023-09-10,Nigeria,846,0
+2023-09-10,Benin,3,0
+2023-09-10,South Africa,5,0
+2023-09-10,Ghana,128,0
+2023-09-10,Congo,17,4
+2023-09-10,Democratic Republic of the Congo,889,3
+2023-09-10,Mozambique,1,0
+2023-09-10,Cameroon,44,1
+2023-09-17,Congo,18,1
+2023-09-17,Ghana,128,0
+2023-09-17,Cameroon,44,0
+2023-09-17,Mozambique,1,0
+2023-09-17,Democratic Republic of the Congo,899,10
+2023-09-17,South Africa,5,0
+2023-09-17,Nigeria,846,0
+2023-09-17,Benin,3,0
+2023-09-17,Central African Republic,45,0
+2023-09-17,Liberia,12,0
+2023-09-24,South Africa,5,0
+2023-09-24,Ghana,128,0
+2023-09-24,Congo,18,0
+2023-09-24,Central African Republic,45,0
+2023-09-24,Benin,3,0
+2023-09-24,Democratic Republic of the Congo,911,12
+2023-09-24,Nigeria,846,0
+2023-09-24,Cameroon,44,0
+2023-09-24,Liberia,12,0
+2023-09-24,Mozambique,1,0
+2023-10-01,Liberia,12,0
+2023-10-01,Benin,3,0
+2023-10-01,Nigeria,846,0
+2023-10-01,South Africa,5,0
+2023-10-01,Congo,18,0
+2023-10-01,Mozambique,1,0
+2023-10-01,Ghana,128,0
+2023-10-01,Democratic Republic of the Congo,925,14
+2023-10-01,Cameroon,44,0
+2023-10-01,Central African Republic,45,0
+2023-10-08,Benin,3,0
+2023-10-08,Nigeria,846,0
+2023-10-08,Cameroon,45,1
+2023-10-08,South Africa,5,0
+2023-10-08,Central African Republic,45,0
+2023-10-08,Liberia,12,0
+2023-10-08,Ghana,128,0
+2023-10-08,Morocco,4,1
+2023-10-08,Democratic Republic of the Congo,952,27
+2023-10-08,Mozambique,1,0
+2023-10-08,Congo,19,1
+2023-10-15,Ghana,128,0
+2023-10-15,Benin,3,0
+2023-10-15,Democratic Republic of the Congo,982,30
+2023-10-15,Nigeria,846,0
+2023-10-15,Congo,23,4
+2023-10-15,Central African Republic,45,0
+2023-10-15,South Africa,5,0
+2023-10-15,Liberia,12,0
+2023-10-15,Mozambique,1,0
+2023-10-15,Cameroon,45,0
+2023-10-22,Benin,3,0
+2023-10-22,Cameroon,45,0
+2023-10-22,Democratic Republic of the Congo,1011,29
+2023-10-22,Liberia,12,0
+2023-10-22,Mozambique,1,0
+2023-10-22,Central African Republic,45,0
+2023-10-22,Congo,23,0
+2023-10-22,Ghana,128,0
+2023-10-22,South Africa,5,0
+2023-10-22,Nigeria,846,0
+2023-10-29,Congo,25,2
+2023-10-29,Mozambique,1,0
+2023-10-29,Liberia,12,0
+2023-10-29,Cameroon,45,0
+2023-10-29,Benin,3,0
+2023-10-29,Central African Republic,45,0
+2023-10-29,Ghana,128,0
+2023-10-29,Democratic Republic of the Congo,1046,35
+2023-10-29,South Africa,5,0
+2023-10-29,Nigeria,846,0
+2023-11-05,Congo,25,0
+2023-11-05,Cameroon,45,0
+2023-11-05,Benin,3,0
+2023-11-05,Ghana,128,0
+2023-11-05,Liberia,12,0
+2023-11-05,South Africa,5,0
+2023-11-05,Mozambique,1,0
+2023-11-05,Nigeria,846,0
+2023-11-05,Democratic Republic of the Congo,1075,29
+2023-11-05,Central African Republic,45,0
+2023-11-12,Ghana,128,0
+2023-11-12,Congo,25,0
+2023-11-12,Cameroon,45,0
+2023-11-12,Democratic Republic of the Congo,1127,52
+2023-11-12,Mozambique,1,0
+2023-11-12,Nigeria,847,1
+2023-11-12,Benin,3,0
+2023-11-12,Central African Republic,45,0
+2023-11-12,South Africa,5,0
+2023-11-12,Liberia,12,0
+2023-11-19,Ghana,128,0
+2023-11-19,South Africa,5,0
+2023-11-19,Congo,26,1
+2023-11-19,Cameroon,45,0
+2023-11-19,Liberia,14,2
+2023-11-19,Central African Republic,45,0
+2023-11-19,Democratic Republic of the Congo,1154,27
+2023-11-19,Benin,3,0
+2023-11-19,Nigeria,847,0
+2023-11-19,Mozambique,1,0
+2023-11-26,Democratic Republic of the Congo,1171,17
+2023-11-26,Central African Republic,45,0
+2023-11-26,Cameroon,45,0
+2023-11-26,South Africa,5,0
+2023-11-26,Mozambique,1,0
+2023-11-26,Ghana,128,0
+2023-11-26,Nigeria,855,8
+2023-11-26,Liberia,15,1
+2023-11-26,Congo,26,0
+2023-11-26,Benin,3,0
+2023-12-03,Benin,3,0
+2023-12-03,Mozambique,1,0
+2023-12-03,Cameroon,45,0
+2023-12-03,Nigeria,859,4
+2023-12-03,Central African Republic,45,0
+2023-12-03,Congo,26,0
+2023-12-03,Democratic Republic of the Congo,1178,7
+2023-12-03,South Africa,5,0
+2023-12-03,Ghana,128,0
+2023-12-03,Liberia,17,2
+2023-12-10,Ghana,128,0
+2023-12-10,South Africa,5,0
+2023-12-10,Mozambique,1,0
+2023-12-10,Cameroon,45,0
+2023-12-10,Central African Republic,45,0
+2023-12-10,Liberia,17,0
+2023-12-10,Benin,3,0
+2023-12-10,Nigeria,859,0
+2023-12-10,Democratic Republic of the Congo,1192,14
+2023-12-10,Congo,26,0
+2023-12-17,Mozambique,1,0
+2023-12-17,South Africa,5,0
+2023-12-17,Ghana,128,0
+2023-12-17,Nigeria,860,1
+2023-12-17,Congo,26,0
+2023-12-17,Liberia,17,0
+2023-12-17,Cameroon,45,0
+2023-12-17,Benin,3,0
+2023-12-17,Democratic Republic of the Congo,1200,8
+2023-12-17,Central African Republic,45,0
+2023-12-24,Central African Republic,46,1
+2023-12-24,Benin,3,0
+2023-12-24,Mozambique,1,0
+2023-12-24,Liberia,17,0
+2023-12-24,South Africa,5,0
+2023-12-24,Democratic Republic of the Congo,1230,30
+2023-12-24,Cameroon,45,0
+2023-12-24,Congo,26,0
+2023-12-24,Nigeria,861,1
+2023-12-24,Ghana,128,0
+2023-12-31,Liberia,17,0
+2023-12-31,Benin,3,0
+2023-12-31,South Africa,5,0
+2023-12-31,Central African Republic,47,1
+2023-12-31,Nigeria,861,0
+2023-12-31,Mozambique,1,0
+2023-12-31,Ghana,128,0
+2023-12-31,Cameroon,45,0
+2023-12-31,Congo,26,0
+2023-12-31,Democratic Republic of the Congo,1245,15
+2024-01-07,Nigeria,861,0
+2024-01-07,Liberia,17,0
+2024-01-07,Benin,3,0
+2024-01-07,Mozambique,1,0
+2024-01-07,Democratic Republic of the Congo,1290,45
+2024-01-07,Central African Republic,47,0
+2024-01-07,Ghana,128,0
+2024-01-07,Congo,26,0
+2024-01-07,Cameroon,45,0
+2024-01-07,South Africa,5,0
+2024-01-14,Mozambique,1,0
+2024-01-14,South Africa,5,0
+2024-01-14,Benin,3,0
+2024-01-14,Nigeria,861,0
+2024-01-14,Liberia,18,1
+2024-01-14,Congo,27,1
+2024-01-14,Ghana,128,0
+2024-01-14,Democratic Republic of the Congo,1362,72
+2024-01-14,Central African Republic,51,4
+2024-01-14,Guinea,1,1
+2024-01-14,Cameroon,47,2
+2024-01-21,Mozambique,1,0
+2024-01-21,Congo,28,1
+2024-01-21,Democratic Republic of the Congo,1545,183
+2024-01-21,Benin,3,0
+2024-01-21,Cameroon,47,0
+2024-01-21,Central African Republic,51,0
+2024-01-21,Nigeria,861,0
+2024-01-21,Ghana,128,0
+2024-01-21,South Africa,5,0
+2024-01-21,Liberia,18,0
+2024-01-28,Democratic Republic of the Congo,1660,115
+2024-01-28,South Africa,5,0
+2024-01-28,Cameroon,47,0
+2024-01-28,Central African Republic,52,1
+2024-01-28,Mozambique,1,0
+2024-01-28,Benin,3,0
+2024-01-28,Congo,30,2
+2024-01-28,Nigeria,863,2
+2024-01-28,Ghana,128,0
+2024-01-28,Liberia,18,0
+2024-02-04,Cameroon,47,0
+2024-02-04,Benin,3,0
+2024-02-04,Democratic Republic of the Congo,1726,66
+2024-02-04,South Africa,5,0
+2024-02-04,Congo,30,0
+2024-02-04,Central African Republic,52,0
+2024-02-04,Ghana,128,0
+2024-02-04,Nigeria,863,0
+2024-02-04,Mozambique,1,0
+2024-02-04,Liberia,19,1
+2024-02-11,Ghana,128,0
+2024-02-11,Cameroon,47,0
+2024-02-11,Congo,30,0
+2024-02-11,Mozambique,1,0
+2024-02-11,Nigeria,865,2
+2024-02-11,Democratic Republic of the Congo,1820,94
+2024-02-11,South Africa,5,0
+2024-02-11,Liberia,19,0
+2024-02-11,Central African Republic,55,3
+2024-02-11,Benin,3,0
+2024-02-18,Liberia,20,1
+2024-02-18,Cameroon,47,0
+2024-02-18,South Africa,5,0
+2024-02-18,Central African Republic,59,4
+2024-02-18,Benin,3,0
+2024-02-18,Mozambique,1,0
+2024-02-18,Congo,35,5
+2024-02-18,Nigeria,867,2
+2024-02-18,Democratic Republic of the Congo,1888,68
+2024-02-18,Ghana,128,0
+2024-02-25,Benin,3,0
+2024-02-25,Central African Republic,59,0
+2024-02-25,Congo,37,2
+2024-02-25,Nigeria,867,0
+2024-02-25,South Africa,5,0
+2024-02-25,Cameroon,47,0
+2024-02-25,Liberia,20,0
+2024-02-25,Ghana,128,0
+2024-02-25,Democratic Republic of the Congo,1962,74
+2024-02-25,Mozambique,1,0
+2024-03-03,Cameroon,47,0
+2024-03-03,Central African Republic,59,0
+2024-03-03,Benin,3,0
+2024-03-03,South Africa,5,0
+2024-03-03,Congo,37,0
+2024-03-03,Ghana,128,0
+2024-03-03,Democratic Republic of the Congo,2049,87
+2024-03-03,Liberia,20,0
+2024-03-03,Nigeria,867,0
+2024-03-03,Mozambique,1,0
+2024-03-10,Mozambique,1,0
+2024-03-10,Cameroon,47,0
+2024-03-10,Liberia,21,1
+2024-03-10,Ghana,128,0
+2024-03-10,Democratic Republic of the Congo,2119,70
+2024-03-10,Central African Republic,59,0
+2024-03-10,South Africa,5,0
+2024-03-10,Nigeria,871,4
+2024-03-10,Benin,3,0
+2024-03-10,Congo,45,8
+2024-03-17,Morocco,5,1
+2024-03-17,Cameroon,47,0
+2024-03-17,Liberia,21,0
+2024-03-17,Central African Republic,63,4
+2024-03-17,South Africa,5,0
+2024-03-17,Congo,45,0
+2024-03-17,Nigeria,873,2
+2024-03-17,Democratic Republic of the Congo,2173,54
+2024-03-17,Benin,3,0
+2024-03-17,Ghana,128,0
+2024-03-17,Mozambique,1,0
+2024-03-24,Democratic Republic of the Congo,2260,87
+2024-03-24,South Africa,5,0
+2024-03-24,Central African Republic,65,2
+2024-03-24,Nigeria,873,0
+2024-03-24,Mozambique,1,0
+2024-03-24,Liberia,21,0
+2024-03-24,Benin,3,0
+2024-03-24,Ghana,128,0
+2024-03-24,Cameroon,47,0
+2024-03-24,Congo,45,0
+2024-03-31,Nigeria,879,6
+2024-03-31,South Africa,5,0
+2024-03-31,Central African Republic,66,1
+2024-03-31,Mozambique,1,0
+2024-03-31,Benin,3,0
+2024-03-31,Liberia,22,1
+2024-03-31,Cameroon,47,0
+2024-03-31,Ghana,128,0
+2024-03-31,Democratic Republic of the Congo,2324,64
+2024-03-31,Congo,45,0
+2024-04-07,Liberia,22,0
+2024-04-07,Mozambique,1,0
+2024-04-07,Democratic Republic of the Congo,2405,81
+2024-04-07,Ghana,128,0
+2024-04-07,South Africa,5,0
+2024-04-07,Benin,3,0
+2024-04-07,Congo,45,0
+2024-04-07,Central African Republic,66,0
+2024-04-07,Cameroon,48,1
+2024-04-07,Nigeria,880,1
+2024-04-14,Benin,3,0
+2024-04-14,Nigeria,881,1
+2024-04-14,Central African Republic,66,0
+2024-04-14,Mozambique,1,0
+2024-04-14,Cameroon,50,2
+2024-04-14,Ghana,128,0
+2024-04-14,South Africa,5,0
+2024-04-14,Liberia,22,0
+2024-04-14,Congo,45,0
+2024-04-14,Democratic Republic of the Congo,2527,122
+2024-04-21,Liberia,22,0
+2024-04-21,Nigeria,881,0
+2024-04-21,Benin,3,0
+2024-04-21,Central African Republic,66,0
+2024-04-21,Congo,45,0
+2024-04-21,Democratic Republic of the Congo,2637,110
+2024-04-21,South Africa,5,0
+2024-04-21,Mozambique,1,0
+2024-04-21,Cameroon,50,0
+2024-04-21,Ghana,128,0
+2024-04-28,Cameroon,50,0
+2024-04-28,Democratic Republic of the Congo,2731,94
+2024-04-28,Mozambique,1,0
+2024-04-28,Benin,3,0
+2024-04-28,Ghana,128,0
+2024-04-28,Congo,45,0
+2024-04-28,Central African Republic,66,0
+2024-04-28,South Africa,5,0
+2024-04-28,Liberia,22,0
+2024-04-28,Nigeria,883,2
+2024-05-05,Democratic Republic of the Congo,2978,247
+2024-05-05,Cameroon,50,0
+2024-05-05,Mozambique,1,0
+2024-05-05,Nigeria,885,2
+2024-05-05,Congo,45,0
+2024-05-05,South Africa,5,0
+2024-05-05,Central African Republic,66,0
+2024-05-05,Liberia,22,0
+2024-05-05,Ghana,128,0
+2024-05-05,Benin,3,0
+2024-05-12,Liberia,22,0
+2024-05-12,Ghana,128,0
+2024-05-12,Democratic Republic of the Congo,3170,192
+2024-05-12,Benin,3,0
+2024-05-12,Mozambique,1,0
+2024-05-12,Cameroon,50,0
+2024-05-12,Nigeria,885,0
+2024-05-12,South Africa,6,1
+2024-05-12,Congo,45,0
+2024-05-12,Central African Republic,66,0
+2024-05-19,Democratic Republic of the Congo,3368,198
+2024-05-19,South Africa,6,0
+2024-05-19,Nigeria,885,0
+2024-05-19,Liberia,22,0
+2024-05-19,Cameroon,50,0
+2024-05-19,Congo,45,0
+2024-05-19,Ghana,128,0
+2024-05-19,Benin,3,0
+2024-05-19,Mozambique,1,0
+2024-05-19,Central African Republic,66,0
+2024-05-26,Central African Republic,66,0
+2024-05-26,Congo,45,0
+2024-05-26,Ghana,128,0
+2024-05-26,Benin,3,0
+2024-05-26,Liberia,22,0
+2024-05-26,Mozambique,1,0
+2024-05-26,Democratic Republic of the Congo,3553,185
+2024-05-26,South Africa,7,1
+2024-05-26,Nigeria,887,2
+2024-05-26,Cameroon,50,0
+2024-06-02,Ghana,128,0
+2024-06-02,Nigeria,888,1
+2024-06-02,Liberia,22,0
+2024-06-02,South Africa,8,1
+2024-06-02,Mozambique,1,0
+2024-06-02,Congo,45,0
+2024-06-02,Central African Republic,66,0
+2024-06-02,Benin,3,0
+2024-06-02,Democratic Republic of the Congo,3713,160
+2024-06-02,Cameroon,50,0
+2024-06-09,Democratic Republic of the Congo,3928,215
+2024-06-09,Nigeria,889,1
+2024-06-09,Mozambique,1,0
+2024-06-09,Liberia,22,0
+2024-06-09,Congo,45,0
+2024-06-09,South Africa,10,2
+2024-06-09,Ghana,128,0
+2024-06-09,Cameroon,50,0
+2024-06-09,Benin,3,0
+2024-06-09,Central African Republic,67,1
+2024-06-16,Nigeria,891,2
+2024-06-16,Benin,3,0
+2024-06-16,Cameroon,50,0
+2024-06-16,South Africa,17,7
+2024-06-16,Congo,45,0
+2024-06-16,Mozambique,1,0
+2024-06-16,Ghana,128,0
+2024-06-16,Central African Republic,68,1
+2024-06-16,Democratic Republic of the Congo,4274,346
+2024-06-16,Liberia,22,0
+2024-06-23,Mozambique,1,0
+2024-06-23,Congo,45,0
+2024-06-23,Cameroon,50,0
+2024-06-23,Democratic Republic of the Congo,4601,327
+2024-06-23,Central African Republic,70,2
+2024-06-23,Benin,3,0
+2024-06-23,Nigeria,892,1
+2024-06-23,Liberia,22,0
+2024-06-23,Ghana,128,0
+2024-06-23,South Africa,21,4
+2024-06-30,Democratic Republic of the Congo,4862,261
+2024-06-30,Mozambique,1,0
+2024-06-30,Cameroon,50,0
+2024-06-30,Liberia,22,0
+2024-06-30,Congo,45,0
+2024-06-30,C?te d??voire,0,0
+2024-06-30,Central African Republic,71,1
+2024-06-30,South Africa,21,0
+2024-06-30,Ghana,128,0
+2024-06-30,Benin,3,0
+2024-06-30,Nigeria,895,3
+2024-07-07,South Africa,25,4
+2024-07-07,C?te d??voire,1,1
+2024-07-07,Democratic Republic of the Congo,5167,305
+2024-07-07,Cameroon,50,0
+2024-07-07,Uganda,0,0
+2024-07-07,Congo,45,0
+2024-07-07,Benin,3,0
+2024-07-07,Central African Republic,72,1
+2024-07-07,Nigeria,898,3
+2024-07-07,Ghana,128,0
+2024-07-07,Mozambique,1,0
+2024-07-07,Liberia,22,0
+2024-07-14,Nigeria,898,0
+2024-07-14,Uganda,0,0
+2024-07-14,Benin,3,0
+2024-07-14,Congo,45,0
+2024-07-14,Central African Republic,73,1
+2024-07-14,Mozambique,1,0
+2024-07-14,Liberia,22,0
+2024-07-14,Ghana,128,0
+2024-07-14,Cameroon,50,0
+2024-07-14,C?te d??voire,2,1
+2024-07-14,Rwanda,0,0
+2024-07-14,Democratic Republic of the Congo,5554,387
+2024-07-14,South Africa,27,2
+2024-07-21,Nigeria,899,1
+2024-07-21,Uganda,0,0
+2024-07-21,Benin,3,0
+2024-07-21,Kenya,0,0
+2024-07-21,Congo,45,0
+2024-07-21,Cameroon,50,0
+2024-07-21,South Africa,27,0
+2024-07-21,Rwanda,0,0
+2024-07-21,Central African Republic,77,4
+2024-07-21,Ghana,128,0
+2024-07-21,Liberia,22,0
+2024-07-21,Mozambique,1,0
+2024-07-21,C?te d??voire,5,3
+2024-07-21,Democratic Republic of the Congo,6021,467
+2024-07-21,Burundi,0,0
+2024-07-28,Burundi,9,9
+2024-07-28,Democratic Republic of the Congo,6323,302
+2024-07-28,Cameroon,50,0
+2024-07-28,Ghana,128,0
+2024-07-28,Benin,3,0
+2024-07-28,Uganda,2,2
+2024-07-28,Nigeria,899,0
+2024-07-28,C?te d??voire,9,4
+2024-07-28,Congo,45,0
+2024-07-28,Mozambique,1,0
+2024-07-28,Guinea,1,0
+2024-07-28,Kenya,1,1
+2024-07-28,Rwanda,4,4
+2024-07-28,Liberia,22,0
+2024-07-28,South Africa,27,0
+2024-07-28,Central African Republic,86,9
+2024-08-04,Mozambique,1,0
+2024-08-04,C?te d??voire,13,4
+2024-08-04,South Africa,29,2
+2024-08-04,Liberia,22,0
+2024-08-04,Benin,3,0
+2024-08-04,Democratic Republic of the Congo,6519,196
+2024-08-04,Rwanda,4,0
+2024-08-04,Kenya,1,0
+2024-08-04,Guinea,1,0
+2024-08-04,Uganda,3,1
+2024-08-04,Nigeria,899,0
+2024-08-04,Cameroon,50,0
+2024-08-04,Ghana,128,0
+2024-08-04,Congo,45,0
+2024-08-04,Burundi,40,31
+2024-08-04,Central African Republic,89,3
+2024-08-11,Congo,47,2
+2024-08-11,Kenya,1,0
+2024-08-11,Cameroon,50,0
+2024-08-11,Rwanda,4,0
+2024-08-11,Central African Republic,91,2
+2024-08-11,Democratic Republic of the Congo,6698,179
+2024-08-11,Benin,3,0
+2024-08-11,Liberia,23,1
+2024-08-11,South Africa,29,0
+2024-08-11,C?te d??voire,19,6
+2024-08-11,Nigeria,901,2
+2024-08-11,Ghana,128,0
+2024-08-11,Mozambique,1,0
+2024-08-11,Uganda,4,1
+2024-08-11,Guinea,1,0
+2024-08-11,Burundi,83,43
+2024-08-18,Kenya,1,0
+2024-08-18,Congo,47,0
+2024-08-18,Central African Republic,93,2
+2024-08-18,Mozambique,1,0
+2024-08-18,Cameroon,50,0
+2024-08-18,Guinea,1,0
+2024-08-18,Rwanda,4,0
+2024-08-18,C?te d??voire,31,12
+2024-08-18,Burundi,153,70
+2024-08-18,Benin,3,0
+2024-08-18,Liberia,23,0
+2024-08-18,Uganda,9,5
+2024-08-18,South Africa,29,0
+2024-08-18,Nigeria,904,3
+2024-08-18,Ghana,128,0
+2024-08-18,Democratic Republic of the Congo,6910,212
+2024-08-18,Gabon,0,0
+2024-08-25,Gabon,1,1
+2024-08-25,Benin,3,0
+2024-08-25,Rwanda,4,0
+2024-08-25,Liberia,23,0
+2024-08-25,Mozambique,1,0
+2024-08-25,Ghana,128,0
+2024-08-25,Kenya,2,1
+2024-08-25,Central African Republic,96,3
+2024-08-25,Democratic Republic of the Congo,7153,243
+2024-08-25,Nigeria,914,10
+2024-08-25,Cameroon,50,0
+2024-08-25,Uganda,12,3
+2024-08-25,South Africa,29,0
+2024-08-25,Burundi,231,78
+2024-08-25,C?te d??voire,38,7
+2024-08-25,Congo,47,0
+2024-08-25,Guinea,1,0
+2024-09-01,Liberia,24,1
+2024-09-01,Uganda,16,4
+2024-09-01,Central African Republic,97,1
+2024-09-01,Kenya,4,2
+2024-09-01,Burundi,328,97
+2024-09-01,Congo,47,0
+2024-09-01,Ghana,128,0
+2024-09-01,Cameroon,51,1
+2024-09-01,Gabon,2,1
+2024-09-01,Democratic Republic of the Congo,7553,400
+2024-09-01,Mozambique,1,0
+2024-09-01,C?te d??voire,43,5
+2024-09-01,Rwanda,4,0
+2024-09-01,Nigeria,922,8
+2024-09-01,South Africa,29,0
+2024-09-01,Benin,3,0
+2024-09-08,Central African Republic,99,2
+2024-09-08,Gabon,2,0
+2024-09-08,Nigeria,931,9
+2024-09-08,Cameroon,51,0
+2024-09-08,Congo,47,0
+2024-09-08,Ghana,128,0
+2024-09-08,South Africa,30,1
+2024-09-08,Guinea,1,0
+2024-09-08,Burundi,385,57
+2024-09-08,Mozambique,1,0
+2024-09-08,Democratic Republic of the Congo,7956,403
+2024-09-08,Liberia,26,2
+2024-09-08,C?te d??voire,47,4
+2024-09-08,Kenya,5,1
+2024-09-08,Rwanda,4,0
+2024-09-08,Benin,3,0
+2024-09-08,Uganda,25,9
+2024-09-15,Uganda,33,8
+2024-09-15,Liberia,29,3
+2024-09-15,Central African Republic,101,2
+2024-09-15,Congo,47,0
+2024-09-15,Morocco,6,1
+2024-09-15,Gabon,2,0
+2024-09-15,Democratic Republic of the Congo,8201,245
+2024-09-15,Nigeria,937,6
+2024-09-15,South Africa,30,0
+2024-09-15,Ghana,128,0
+2024-09-15,Kenya,5,0
+2024-09-15,Guinea,1,0
+2024-09-15,Rwanda,6,2
+2024-09-15,Benin,3,0
+2024-09-15,C?te d??voire,57,10
+2024-09-15,Burundi,564,179
+2024-09-15,Mozambique,1,0
+2024-09-15,Cameroon,51,0
+2024-09-22,Benin,3,0
+2024-09-22,Uganda,52,19
+2024-09-22,Congo,47,0
+2024-09-22,Liberia,29,0
+2024-09-22,Central African Republic,103,2
+2024-09-22,Nigeria,942,5
+2024-09-22,South Africa,30,0
+2024-09-22,Democratic Republic of the Congo,8743,542
+2024-09-22,C?te d??voire,64,7
+2024-09-22,Rwanda,6,0
+2024-09-22,Mozambique,1,0
+2024-09-22,Kenya,5,0
+2024-09-22,Burundi,696,132
+2024-09-22,Cameroon,51,0
+2024-09-22,Ghana,129,1
+2024-09-22,Guinea,1,0
+2024-09-22,Gabon,2,0
+2024-09-29,Kenya,8,3
+2024-09-29,C?te d??voire,68,4
+2024-09-29,Cameroon,51,0
+2024-09-29,Democratic Republic of the Congo,9083,340
+2024-09-29,Burundi,853,157
+2024-09-29,Gabon,2,0
+2024-09-29,Benin,3,0
+2024-09-29,Uganda,72,20
+2024-09-29,South Africa,30,0
+2024-09-29,Congo,48,1
+2024-09-29,Liberia,31,2
+2024-09-29,Mozambique,1,0
+2024-09-29,Central African Republic,103,0
+2024-09-29,Rwanda,6,0
+2024-09-29,Ghana,130,1
+2024-09-29,Nigeria,952,10
+2024-09-29,Guinea,1,0
+2024-10-06,Uganda,109,37
+2024-10-06,South Africa,30,0
+2024-10-06,Rwanda,10,4
+2024-10-06,Zambia,0,0
+2024-10-06,Zimbabwe,0,0
+2024-10-06,Benin,3,0
+2024-10-06,Cameroon,51,0
+2024-10-06,Central African Republic,105,2
+2024-10-06,Congo,48,0
+2024-10-06,Burundi,987,134
+2024-10-06,C?te d??voire,74,6
+2024-10-06,Nigeria,959,7
+2024-10-06,Democratic Republic of the Congo,9534,451
+2024-10-06,Mozambique,1,0
+2024-10-06,Gabon,2,0
+2024-10-06,Morocco,7,1
+2024-10-06,Ghana,130,0
+2024-10-06,Guinea,1,0
+2024-10-06,Kenya,12,4
+2024-10-06,Liberia,31,0
+2024-10-13,Rwanda,14,4
+2024-10-13,Liberia,35,4
+2024-10-13,Central African Republic,109,4
+2024-10-13,Ghana,130,0
+2024-10-13,Gabon,2,0
+2024-10-13,Democratic Republic of the Congo,9847,313
+2024-10-13,Zimbabwe,2,2
+2024-10-13,Guinea,1,0
+2024-10-13,C?te d??voire,78,4
+2024-10-13,Kenya,13,1
+2024-10-13,South Africa,30,0
+2024-10-13,Nigeria,968,9
+2024-10-13,Congo,48,0
+2024-10-13,Uganda,149,40
+2024-10-13,Burundi,1170,183
+2024-10-13,Benin,3,0
+2024-10-13,Zambia,1,1
+2024-10-13,Mozambique,1,0
+2024-10-13,Cameroon,51,0
+2024-10-20,Zimbabwe,2,0
+2024-10-20,Zambia,1,0
+2024-10-20,Guinea,1,0
+2024-10-20,Uganda,190,41
+2024-10-20,Nigeria,976,8
+2024-10-20,Liberia,36,1
+2024-10-20,Ghana,130,0
+2024-10-20,Benin,3,0
+2024-10-20,Mauritius,0,0
+2024-10-20,Kenya,14,1
+2024-10-20,Central African Republic,111,2
+2024-10-20,Rwanda,22,8
+2024-10-20,Mozambique,1,0
+2024-10-20,Democratic Republic of the Congo,10280,433
+2024-10-20,Congo,48,0
+2024-10-20,Burundi,1287,117
+2024-10-20,C?te d??voire,83,5
+2024-10-20,Gabon,2,0
+2024-10-20,South Africa,30,0
+2024-10-20,Cameroon,51,0
+2024-10-27,Gabon,2,0
+2024-10-27,Central African Republic,114,3
+2024-10-27,Congo,48,0
+2024-10-27,Zimbabwe,2,0
+2024-10-27,Kenya,14,0
+2024-10-27,Zambia,1,0
+2024-10-27,Guinea,1,0
+2024-10-27,Cameroon,51,0
+2024-10-27,Uganda,318,128
+2024-10-27,Benin,3,0
+2024-10-27,Ghana,131,1
+2024-10-27,Burundi,1509,222
+2024-10-27,C?te d??voire,87,4
+2024-10-27,South Africa,30,0
+2024-10-27,Democratic Republic of the Congo,10697,417
+2024-10-27,Liberia,37,1
+2024-10-27,Nigeria,986,10
+2024-10-27,Rwanda,26,4
+2024-10-27,Mauritius,1,1
+2024-10-27,Mozambique,1,0
+2024-11-03,Democratic Republic of the Congo,11046,349
+2024-11-03,Ghana,131,0
+2024-11-03,Mozambique,1,0
+2024-11-03,Liberia,40,3
+2024-11-03,Uganda,398,80
+2024-11-03,Rwanda,26,0
+2024-11-03,Guinea,1,0
+2024-11-03,Cameroon,51,0
+2024-11-03,Gabon,2,0
+2024-11-03,Burundi,1718,209
+2024-11-03,Kenya,14,0
+2024-11-03,Congo,48,0
+2024-11-03,C?te d??voire,92,5
+2024-11-03,Central African Republic,119,5
+2024-11-03,Zimbabwe,2,0
+2024-11-03,Nigeria,992,6
+2024-11-03,South Africa,30,0
+2024-11-03,Zambia,1,0
+2024-11-03,Benin,3,0
+2024-11-03,Mauritius,1,0
+2024-11-10,South Africa,30,0
+2024-11-10,Benin,3,0
+2024-11-10,Democratic Republic of the Congo,11586,540
+2024-11-10,C?te d??voire,96,4
+2024-11-10,Uganda,499,101
+2024-11-10,Ghana,131,0
+2024-11-10,Angola,0,0
+2024-11-10,Zimbabwe,2,0
+2024-11-10,Liberia,58,18
+2024-11-10,Kenya,17,3
+2024-11-10,Central African Republic,122,3
+2024-11-10,Cameroon,51,0
+2024-11-10,Nigeria,1005,13
+2024-11-10,Gabon,2,0
+2024-11-10,Mozambique,1,0
+2024-11-10,Congo,48,0
+2024-11-10,Zambia,1,0
+2024-11-10,Mauritius,1,0
+2024-11-10,Burundi,1863,145
+2024-11-10,Rwanda,37,11
+2024-11-10,Guinea,1,0
+2024-11-17,Democratic Republic of the Congo,12110,524
+2024-11-17,Central African Republic,129,7
+2024-11-17,Gabon,2,0
+2024-11-17,Burundi,2050,187
+2024-11-17,Uganda,638,139
+2024-11-17,Rwanda,37,0
+2024-11-17,Ghana,132,1
+2024-11-17,South Africa,30,0
+2024-11-17,Zimbabwe,2,0
+2024-11-17,Nigeria,1011,6
+2024-11-17,Kenya,17,0
+2024-11-17,Zambia,1,0
+2024-11-17,Congo,48,0
+2024-11-17,Mozambique,1,0
+2024-11-17,Mauritius,1,0
+2024-11-17,Liberia,59,1
+2024-11-17,Guinea,1,0
+2024-11-17,Cameroon,54,3
+2024-11-17,Angola,1,1
+2024-11-17,C?te d??voire,101,5
+2024-11-17,Benin,3,0
+2024-11-24,Mauritius,1,0
+2024-11-24,Congo,48,0
+2024-11-24,C?te d??voire,103,2
+2024-11-24,Burundi,2237,187
+2024-11-24,Democratic Republic of the Congo,12488,378
+2024-11-24,Mozambique,1,0
+2024-11-24,Cameroon,54,0
+2024-11-24,South Africa,30,0
+2024-11-24,Liberia,68,9
+2024-11-24,Zimbabwe,2,0
+2024-11-24,Nigeria,1014,3
+2024-11-24,Kenya,19,2
+2024-11-24,Zambia,1,0
+2024-11-24,Angola,2,1
+2024-11-24,Guinea,1,0
+2024-11-24,Benin,3,0
+2024-11-24,Ghana,133,1
+2024-11-24,Central African Republic,133,4
+2024-11-24,Rwanda,52,15
+2024-11-24,Gabon,2,0
+2024-11-24,Uganda,782,144
+2024-12-01,Nigeria,1021,7
+2024-12-01,Zimbabwe,2,0
+2024-12-01,Central African Republic,134,1
+2024-12-01,Democratic Republic of the Congo,12941,453
+2024-12-01,Burundi,2402,165
+2024-12-01,Mozambique,1,0
+2024-12-01,South Africa,30,0
+2024-12-01,Congo,49,1
+2024-12-01,Kenya,23,4
+2024-12-01,Zambia,1,0
+2024-12-01,Angola,3,1
+2024-12-01,Rwanda,59,7
+2024-12-01,Uganda,862,80
+2024-12-01,Ghana,133,0
+2024-12-01,Liberia,79,11
+2024-12-01,Gabon,2,0
+2024-12-01,Guinea,1,0
+2024-12-01,Cameroon,54,0
+2024-12-01,C?te d??voire,107,4
+2024-12-01,Mauritius,1,0
+2024-12-01,Benin,3,0
+2024-12-08,Cameroon,54,0
+2024-12-08,Zimbabwe,2,0
+2024-12-08,Mozambique,1,0
+2024-12-08,Central African Republic,135,1
+2024-12-08,Burundi,2546,144
+2024-12-08,Uganda,1047,185
+2024-12-08,Zambia,1,0
+2024-12-08,Nigeria,1036,15
+2024-12-08,Benin,3,0
+2024-12-08,Angola,4,1
+2024-12-08,Congo,49,0
+2024-12-08,Kenya,28,5
+2024-12-08,Ghana,133,0
+2024-12-08,South Africa,30,0
+2024-12-08,Democratic Republic of the Congo,13388,447
+2024-12-08,Gabon,2,0
+2024-12-08,Mauritius,1,0
+2024-12-08,C?te d??voire,107,0
+2024-12-08,Guinea,2,1
+2024-12-08,Liberia,80,1
+2024-12-08,Rwanda,65,6
+2024-12-15,Democratic Republic of the Congo,13720,332
+2024-12-15,Burundi,2717,171
+2024-12-15,Zambia,1,0
+2024-12-15,Angola,4,0
+2024-12-15,Gabon,2,0
+2024-12-15,Uganda,1184,137
+2024-12-15,Benin,3,0
+2024-12-15,Nigeria,1042,6
+2024-12-15,Ghana,133,0
+2024-12-15,Mauritius,1,0
+2024-12-15,Kenya,29,1
+2024-12-15,Guinea,2,0
+2024-12-15,Rwanda,78,13
+2024-12-15,Central African Republic,136,1
+2024-12-15,C?te d??voire,107,0
+2024-12-15,South Africa,30,0
+2024-12-15,Zimbabwe,2,0
+2024-12-15,Mozambique,1,0
+2024-12-15,Congo,49,0
+2024-12-15,Liberia,80,0
+2024-12-15,Cameroon,54,0
+2024-12-22,Rwanda,78,0
+2024-12-22,Uganda,1343,159
+2024-12-22,Benin,3,0
+2024-12-22,Mozambique,1,0
+2024-12-22,Congo,49,0
+2024-12-22,Ghana,133,0
+2024-12-22,South Africa,30,0
+2024-12-22,Central African Republic,136,0
+2024-12-22,Gabon,2,0
+2024-12-22,Liberia,80,0
+2024-12-22,C?te d??voire,107,0
+2024-12-22,Nigeria,1046,4
+2024-12-22,Zambia,1,0
+2024-12-22,Kenya,29,0
+2024-12-22,Burundi,2861,144
+2024-12-22,Cameroon,54,0
+2024-12-22,Mauritius,1,0
+2024-12-22,Zimbabwe,2,0
+2024-12-22,Democratic Republic of the Congo,14023,303
+2024-12-22,Angola,4,0
+2024-12-22,Guinea,2,0
+2024-12-29,Benin,3,0
+2024-12-29,Zambia,3,2
+2024-12-29,Kenya,33,4
+2024-12-29,Zimbabwe,2,0
+2024-12-29,Liberia,80,0
+2024-12-29,Congo,50,1
+2024-12-29,Angola,4,0
+2024-12-29,Guinea,2,0
+2024-12-29,Rwanda,82,4
+2024-12-29,Cameroon,54,0
+2024-12-29,Nigeria,1050,4
+2024-12-29,Democratic Republic of the Congo,14269,246
+2024-12-29,C?te d??voire,107,0
+2024-12-29,Burundi,2946,85
+2024-12-29,Central African Republic,137,1
+2024-12-29,Uganda,1496,153
+2024-12-29,Gabon,2,0
+2024-12-29,Ghana,133,0
+2025-01-05,Central African Republic,140,3
+2025-01-05,Rwanda,82,0
+2025-01-05,Sierra Leone,0,0
+2025-01-05,C?te d??voire,107,0
+2025-01-05,Liberia,80,0
+2025-01-05,Guinea,2,0
+2025-01-05,Kenya,34,1
+2025-01-05,Uganda,1702,206
+2025-01-05,Burundi,3035,89
+2025-01-05,Zambia,4,1
+2025-01-05,Nigeria,1052,2
+2025-01-05,Democratic Republic of the Congo,14524,255
+2025-01-12,Burundi,3116,81
+2025-01-12,Sierra Leone,2,2
+2025-01-12,Rwanda,82,0
+2025-01-12,Liberia,80,0
+2025-01-12,Kenya,34,0
+2025-01-12,Central African Republic,142,2
+2025-01-12,Uganda,1980,278
+2025-01-12,Democratic Republic of the Congo,14704,180
+2025-01-12,Nigeria,1056,4
+2025-01-19,Sierra Leone,8,6
+2025-01-19,Kenya,36,2
+2025-01-19,Uganda,2031,51
+2025-01-19,Liberia,81,1
