@@ -1,0 +1,27 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+def logistic_model(t, K, r, t0):
+    return K / (1 + np.exp(-r * (t - t0)))
+
+# Parameters
+K = 5.661963486601422
+r = 3.1712231083627893
+t0 = 5.06996975823414
+
+# Time range
+t = np.linspace(0, 10, 100)
+
+# Compute logistic model values
+f_t = logistic_model(t, K, r, t0)
+
+# Plot
+plt.figure(figsize=(8, 5))
+plt.plot(t, f_t, label=f'Logistic Model (K={K}, r={r}, t0={t0})', color='blue')
+plt.axvline(x=t0, linestyle='--', color='red', label=f't0={t0}')
+plt.xlabel('Time (t)')
+plt.ylabel('Population')
+plt.title('Logistic Growth Model')
+plt.legend()
+plt.grid()
+plt.show()
