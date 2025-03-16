@@ -1,4 +1,4 @@
-﻿"country, dependency, or territory",total area in square miles,total area in square km,total area rank
+﻿"country",total area in square miles,total_area_in_square_km,total area rank
 Russia,"6,592,812","17,075,400",1
 Canada,"3,855,081","9,984,670",2
 United States1,"3,809,525","9,866,289",3
@@ -57,7 +57,7 @@ Yemen,"175,676","455,000",55
 Uzbekistan,"173,348","448,971",56
 Sweden,"172,751","447,425",57
 Iraq,"167,974","435,052",58
-Morocco3,"161,004","417,000",59
+Morocco,"161,004","417,000",59
 Paraguay,"157,047","406,752",60
 Zimbabwe,"150,871","390,757",61
 Norway4,"148,449","384,482",62
