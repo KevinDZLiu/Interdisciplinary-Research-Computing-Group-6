@@ -1,38 +1,47 @@
-#Visualising Mpox Cases: 
+import pandas as pd
 
-import pandas as pd 
+# Load the CSV file
+data = pd.read_csv("Mpox_cases.csv")
+print(data.head())
+
+# Group by country and sum the total confirmed cases
+heatmap_data = data.groupby('country')['total_confirmed_cases'].sum().reset_index()
+print(heatmap_data)
+
+#plotting the heatmap
 import geopandas as gpd
-import folium
+import matplotlib.pyplot as plt
 
-#load Data 
-df = pd.read_csv("Mpox_cases.csv")
+# Load a world shapefile (included with Geopandas)
+#world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+world = gpd.read_file("/Users/juliamarciak/Desktop/ne_110m_admin_0_countries")
+print(world.head())  # Verify the data loaded correctly
 
-#selecting only the columns we need: 
-df = df[['iso3', 'total_confirmed_cases']] 
+# Create a list of African countries
+african_countries = [
+    'Algeria', 'Angola', 'Benin', 'Botswana', 'Burkina Faso', 'Burundi', 'Cabo Verde', 'Cameroon', 'Central African Republic', 'Chad', 'Comoros', 'Congo','Democratic Republic of the Congo', 'Djibouti', 'Egypt', 'Equatorial Guinea', 'Eritrea', 'Eswatini', 'Ethiopia', 'Gabon', 'Gambia', 'Ghana', 'Guinea', 'Guinea-Bissau', 'Ivory Coast', 'Kenya', 'Lesotho', 'Liberia', 'Libya', 'Madagascar', 'Malawi', 'Mali', 'Mauritania', 'Mauritius', 'Morocco', 'Mozambique', 'Namibia', 'Niger', 'Nigeria', 'Rwanda', 'Sao Tome and Principe', 'Senegal', 'Seychelles', 'Sierra Leone', 'Somalia', 'South Africa', 'South Sudan', 'Sudan', 'Togo', 'Tunisia','Tanzania','Uganda', 'Zambia', 'Zimbabwe']
 
-#Loading worldmap shapefile 
- #world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
-world = gpd.read_file("https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson")
+africa = world[world['ADMIN'].isin(african_countries)]
+print(africa.head())
 
-# Merge with Mpox data on ISO3 country codes
-merged = world.merge(df, left_on="iso_a3", right_on="iso3", how="left")
 
-# Create a Folium map
-m = folium.Map(location=[0, 20], zoom_start=2)
+#filter for African countries 
+#africa = world[world['continent'] == 'Africa']
 
-#Add Choropleth layer
-folium.Choropleth(
-    geo_data=merged,
-    name="choropleth",
-    data=merged,
-    columns=["iso3", "total_confirmed_cases"],
-    key_on="feature.properties.iso_a3",
-    fill_color="YlOrRd",
-    fill_opacity=0.7,
-    line_opacity=0.2,
-    legend_name="Mpox Cases"
-).add_to(m)
+#verify column names
+print(world.columns)
+print(heatmap_data.columns)
 
-# Save and display
-m.save("mpox_map.html")
-print("Map saved as 'mpox_map.html'. Open in a browser to view.")
+#Check if Congo is present in the heatmap data
+print(heatmap_data[heatmap_data['country'].str.contains('Congo')])
+
+# Merge with heatmap data
+africa = africa.rename(columns={'ADMIN': 'country'})
+africa = africa.merge(heatmap_data, on='country', how='left')
+
+# Plot the heatmap
+fig, ax = plt.subplots(1, 1, figsize=(15, 10))
+africa.boundary.plot(ax=ax, linewidth=1)
+africa.plot(column='total_confirmed_cases', ax=ax, legend=True, cmap='YlOrRd', legend_kwds={'label': "Confirmed Cases"})
+plt.title("Heatmap of Mpox cases in Africa (2022-2025)")
+plt.show()
